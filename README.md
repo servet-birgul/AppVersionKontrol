@@ -1,0 +1,2 @@
+# AppVersionKontrol
+version
